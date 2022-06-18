@@ -1,0 +1,10 @@
+[
+  {
+    "package": "brms",
+    "oncran": true
+  },
+  {
+    "package": "thurstonianIRT",
+    "oncran": true
+  }
+]
