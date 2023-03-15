@@ -1,10 +1,10 @@
 [
   {
-    "package": "brms",
+    "package": "thurstonianIRT",
     "oncran": true
   },
   {
-    "package": "thurstonianIRT",
+    "package": "brms",
     "oncran": true
   }
 ]
